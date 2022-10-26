@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>LAMP STACK</title>
+        <title>PPH LAMP stack</title>
         <link rel="stylesheet" href="/assets/css/bulma.min.css">
     </head>
     <body>
@@ -14,7 +14,8 @@
                         PPH LAMP stack
                     </h1>
                     <h2 class="subtitle">
-                        pph local development environment
+                        Cette stack a été forkée sur Github depuis celle de <a href="https://github.com/sprintcube/docker-compose-lamp/">Sprintcube</a>.<br/>
+                        Toutes les modifications sont sur la branche <em>pphdev</em>. La branche Master reste identique à la version de Sprintcube.
                     </h2>
                 </div>
             </div>
