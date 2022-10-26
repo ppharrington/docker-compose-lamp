@@ -9,22 +9,21 @@
     <body>
         <section class="hero is-medium is-info is-bold">
             <div class="hero-body">
-                <div class="container has-text-centered">
+                <div class="container">
                     <h1 class="title">
-                        LAMP STACK
+                        PPH LAMP stack
                     </h1>
                     <h2 class="subtitle">
-                        Your local development environment
+                        pph local development environment
                     </h2>
                 </div>
             </div>
         </section>
-        <section class="section">
+        <section class="section is-info">
             <div class="container">
                 <div class="columns">
                     <div class="column">
-                        <h3 class="title is-3 has-text-centered">Environment</h3>
-                        <hr>
+                        <h3 class="title is-5">Environment</h3>
                         <div class="content">
                             <ul>
                                 <li><?= apache_get_version(); ?></li>
@@ -48,8 +47,7 @@
                         </div>
                     </div>
                     <div class="column">
-                        <h3 class="title is-3 has-text-centered">Quick Links</h3>
-                        <hr>
+                        <h3 class="title is-5">Quick Links</h3>
                         <div class="content">
                             <ul>
                                 <li><a href="/phpinfo.php">phpinfo()</a></li>
@@ -62,5 +60,16 @@
                 </div>
             </div>
         </section>
+        <section class="section">
+            <div class="container">
+                <h3 class="title is-5">PPH stuff</h3>
+                    <div class="content">
+                    <ul>
+                        <li><a href="/pphstuff/">index</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
     </body>
 </html>
