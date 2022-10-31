@@ -66,7 +66,7 @@
                 <h3 class="title is-5">PPH stuff</h3>
                     <div class="content">
                     <ul>
-                        <li><a href="/pphstuff/">index</a></li>
+                        <li><a href="/pphwebdev/">index</a></li>
                     </ul>
                 </div>
             </div>
